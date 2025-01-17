@@ -11,8 +11,12 @@
 - **Coffee ☕ (it's technically hardware, but essential for coding).**  
 - **Arduino IDE**
 - **JetBrains tools**
-
-<img src="images/html.png" alt="Logo HTML" width="200"/><img src="https://github.com/NetmikoIO/NetmikoIO/blob/main/images/python.png" alt="Logo" width="100"/>
+<picture>
+  <img src="images/html.png" alt="Logo HTML" width="250" />
+</picture>
+<picture>
+  <img src="https://github.com/NetmikoIO/NetmikoIO/blob/main/images/python.png" alt="Logo Python" width="100" />
+</picture>
 
 🎯 My goal is to merge technology and creativity to develop innovative projects.  
 
