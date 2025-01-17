@@ -12,6 +12,9 @@
 - **Arduino IDE**
 - **JetBrains tools**
 
+<img src="images/html.png" alt="Logo HTML" width="200"/>
+
+
 🎯 My goal is to merge technology and creativity to develop innovative projects.  
 
 ## 🎖️ Certifications and Achievements  
