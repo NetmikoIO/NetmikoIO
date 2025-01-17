@@ -12,8 +12,7 @@
 - **Arduino IDE**
 - **JetBrains tools**
 
-<img src="images/html.png" alt="Logo HTML" width="200"/>
-
+<img src="images/html.png" alt="Logo HTML" width="200"/><img src="https://github.com/NetmikoIO/NetmikoIO/blob/main/images/python.png" alt="Logo" width="100"/>
 
 🎯 My goal is to merge technology and creativity to develop innovative projects.  
 
