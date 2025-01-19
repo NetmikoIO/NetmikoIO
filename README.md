@@ -1,8 +1,7 @@
-# Hi 👋, I'm Miko!
-## 私の世界へようこそ、ここではコードがうまく動くように頑張っています... そして、時々成功します！
-### Welcome to my world, where I strive to make the code run well... and sometimes I succeed!
 
-
+<h1 align="center">Hi 👋, I'm Miko! </h1>
+<h3 align="center">私の世界へようこそ、ここではコードがうまく動くように頑張っています... そして、時々成功します！ </h3>
+<h4 align="center">Welcome to my world, where I strive to make the code run well... and sometimes I succeed!</h4>
 
 👋 Hi! I'm **Miko**, a *developer in progress* passionate about programming, networks, and microcomputing.  
 
