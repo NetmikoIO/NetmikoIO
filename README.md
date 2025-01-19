@@ -4,13 +4,14 @@
 👋 Hi! I'm **Miko**, a *developer in progress* passionate about programming, networks, and microcomputing.  
 
 🔌 I love creating projects with **Arduino**, **ESP32**, and **M5Stack**, combining IoT and practical solutions.  
-🌐 Currently learning **Cisco networks**, **artificial intelligence**, and **cybersecurity**.  
+🌐 Currently learning **Cisco networks**, **artificial intelligence**, and **Robotics**.  
 
 💻 My favorite tools include:
 - **Python,HTML,CSS,JS** 
 - **Coffee ☕ (it's technically hardware, but essential for coding).**  
 - **Arduino IDE**
 - **JetBrains tools**
+
 <picture>
   <img src="images/html.png" alt="Logo HTML" width="250" />
 </picture>
@@ -33,5 +34,14 @@ A big shoutout to the community and my respect to all of you. 🙌
 🌐 Check out my website: [www.netmiko.io](https://www.netmiko.io)
 
 ![Visitas a mi perfil](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNetmikoIO&count_bg=%23D8BFD8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitas&edge_flat=false&mode=total)
+
+💻 My favorite tools include:
+- **Python, HTML, CSS, JS** 
+- **Coffee ☕ (it's technically hardware, but essential for coding).**  
+- **Arduino IDE**
+- **JetBrains tools**
+
+
+
 
 
