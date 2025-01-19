@@ -1,3 +1,8 @@
+<p align="center">
+  <picture>
+    <img src="./images/loon.gif" alt="Loon GIF" width="600" />
+  </picture>
+</p>
 
 <h1 align="center">Hi 👋, I'm Miko! </h1>
 <h2 align="center">私の世界へようこそ、ここではコードがうまく動くように頑張っています... そして、時々成功します！ </h2>
