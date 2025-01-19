@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Miko! </h1>
 <h2 align="center">私の世界へようこそ、ここではコードがうまく動くように頑張っています... そして、時々成功します！ </h2>
 <h3 align="center">*Developer in progress* passionate about programming, networks, and microcomputing. 💻 </h3>
@@ -35,11 +36,6 @@ A big shoutout to the community and my respect to all of you. 🙌
 
 ![Visitas a mi perfil](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNetmikoIO&count_bg=%23D8BFD8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitas&edge_flat=false&mode=total)
 
-💻 My favorite tools include:
-- **Python, HTML, CSS, JS** 
-- **Coffee ☕ (it's technically hardware, but essential for coding).**  
-- **Arduino IDE**
-- **JetBrains tools**
 
 
 
