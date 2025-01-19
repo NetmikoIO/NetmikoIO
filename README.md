@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Miko! </h1>
 <h3 align="center">私の世界へようこそ、ここではコードがうまく動くように頑張っています... そして、時々成功します！ </h3>
 <h4 align="center">Welcome to my world, where I strive to make the code run well... and sometimes I succeed!</h4>
@@ -27,12 +26,9 @@
 
 ## Certifications and Achievements
 
-
-
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
   <img src="https://images.credly.com/size/104x104/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Cisco Networking Academy Badge">
 </a>
-
 
 The truth is, I'm a bit of a disaster 😅, but if anyone wants to lend a hand, we can create amazing things together!  
 A big shoutout to the community and my respect to all of you. 🙌 
@@ -41,9 +37,4 @@ A big shoutout to the community and my respect to all of you. 🙌
 🌐 Check out my website: [www.netmiko.io](https://www.netmiko.io)
 
 ![Visitas a mi perfil](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNetmikoIO&count_bg=%23D8BFD8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitas&edge_flat=false&mode=total)
-
-
-
-
-
 
