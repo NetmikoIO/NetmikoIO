@@ -6,15 +6,15 @@
 
 🔌 I love creating projects with **Arduino**, **ESP32**, and **M5Stack**, combining IoT and practical solutions.  
 🌐 Currently learning **Cisco networks**, **artificial intelligence**, and **Robotics**.  
-
+<picture>
 <img align="right" alt="Coding" width="400" src="images/loon.gif" style="margin-top: 50px;"/>
-
+</picture>
 💻 My favorite tools include:
 - **Python,HTML,CSS,JS** 
 - **Coffee ☕ (it's technically hardware, but essential for coding).**  
 - **Arduino IDE**
 - **JetBrains tools**
-</p>
+
 <picture>
   <img src="images/html.png" alt="Logo HTML" width="250" />
 </picture>
