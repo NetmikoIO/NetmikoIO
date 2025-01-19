@@ -1,23 +1,20 @@
-<p align="center">
-  <picture>
-    <img src="./images/loon.gif" alt="Loon GIF" width="500" />
-  </picture>
-</p>
-
 <h1 align="center">Hi 👋, I'm Miko! </h1>
 <h2 align="center">私の世界へようこそ、ここではコードがうまく動くように頑張っています... そして、時々成功します！ </h2>
-<h3 align="center">*Developer in progress* passionate about programming, networks, and microcomputing. 💻 </h3>
+<h3 align="center">Welcome to my world, where I strive to make the code run well... and sometimes I succeed! </h3>
+
 👋 Hi! I'm **Miko**, a *developer in progress* passionate about programming, networks, and microcomputing.  
 
 🔌 I love creating projects with **Arduino**, **ESP32**, and **M5Stack**, combining IoT and practical solutions.  
 🌐 Currently learning **Cisco networks**, **artificial intelligence**, and **Robotics**.  
+
+<img align="right" alt="Coding" width="400" src="images/loon.gif" style="margin-top: 50px;"/>
 
 💻 My favorite tools include:
 - **Python,HTML,CSS,JS** 
 - **Coffee ☕ (it's technically hardware, but essential for coding).**  
 - **Arduino IDE**
 - **JetBrains tools**
-
+</p>
 <picture>
   <img src="images/html.png" alt="Logo HTML" width="250" />
 </picture>
@@ -26,6 +23,7 @@
 </picture>
 
 🎯 My goal is to merge technology and creativity to develop innovative projects.  
+
 
 ## 🎖️ Certifications and Achievements  
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
@@ -40,7 +38,6 @@ A big shoutout to the community and my respect to all of you. 🙌
 🌐 Check out my website: [www.netmiko.io](https://www.netmiko.io)
 
 ![Visitas a mi perfil](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNetmikoIO&count_bg=%23D8BFD8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitas&edge_flat=false&mode=total)
-
 
 
 
