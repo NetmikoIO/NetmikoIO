@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img src="./images/loon.gif" alt="Loon GIF" width="600" />
+    <img src="./images/loon.gif" alt="Loon GIF" width="500" />
   </picture>
 </p>
 
