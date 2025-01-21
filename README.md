@@ -2,7 +2,11 @@
 <h3 align="center">私の世界へようこそ、ここではコードがうまく動くように頑張っています... そして、時々成功します！ </h3>
 <h4 align="center">Welcome to my world, where I strive to make the code run well... and sometimes I succeed!</h4>
 
-👋 Hi! I'm **Miko**, a *developer in progress* passionate about programming, networks, and microcomputing.  
+<div align="center">
+  👋 Hi! I'm <b>Miko</b>, a <i>developer in progress</i> passionate about programming, networks, and microcomputing.
+</div>
+
+***
 
 🔌 I love creating projects with **Arduino**, **ESP32**, and **M5Stack**, combining IoT and practical solutions.  
 🌐 Currently learning **Cisco networks**, **artificial intelligence**, and **Robotics**.  
@@ -23,6 +27,7 @@
 </picture>
 
 🎯 My goal is to merge technology and creativity to develop innovative projects.  
+
 
 ## Certifications and Achievements
 
