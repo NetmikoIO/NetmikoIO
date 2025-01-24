@@ -11,15 +11,14 @@
 
 <div align="center">
   👋 Hi! I'm <b>Miko</b>, a <i>developer in progress</i> passionate about programming, networks, and microcomputing.
-</div>
+
 
 ***
 
 🔌 I love creating projects with **Arduino**, **ESP32**, and **M5Stack**, combining IoT and practical solutions.  
 🌐 Currently learning **Cisco networks**, **artificial intelligence**, and **Robotics**.  
-<picture>
-<img align="right" alt="Coding" width="350" src="images/loon.gif" style="margin-top: 100px;"/>
-</picture>
+</div>
+
 💻 My favorite tools include:
 - **Python,HTML,CSS,JS** 
 - **Coffee ☕ (it's technically hardware, but essential for coding).**  
@@ -35,7 +34,8 @@
 
 🎯 My goal is to merge technology and creativity to develop innovative projects.  
 
-
+<div align="center">  
+  
 ## Certifications and Achievements
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
@@ -50,3 +50,4 @@ A big shoutout to the community and my respect to all of you. 🙌
 
 ![Visitas a mi perfil](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNetmikoIO&count_bg=%23D8BFD8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitas&edge_flat=false&mode=total)
 
+</div>
