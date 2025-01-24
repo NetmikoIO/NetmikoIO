@@ -1,3 +1,10 @@
+<div align="center">
+  <picture>
+    <source srcset="images/pixel.png" type="image/png">
+    <img src="images/pixel.png" alt="Pixel Art" style="width: 100%; pointer-events: none;">
+  </picture>
+</div>
+
 <h1 align="center">Hi 👋, I'm Miko! </h1>
 <h3 align="center">私の世界へようこそ、ここではコードがうまく動くように頑張っています... そして、時々成功します！ </h3>
 <h4 align="center">Welcome to my world, where I strive to make the code run well... and sometimes I succeed!</h4>
