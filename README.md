@@ -1,8 +1,9 @@
 <div align="center">
-  <picture>
-    <source srcset="images/pixel.png" type="image/png">
-    <img src="images/pixel.png" alt="Pixel Art" style="width: 100%; pointer-events: none;">
-  </picture>
+
+<picture>
+  <img src="images/ciber01840px.jpg" alt="Imagen Ciber" style="width: 100%;">
+</picture>
+
 </div>
 
 <h1 align="center">Hi 👋, I'm Miko! </h1>
