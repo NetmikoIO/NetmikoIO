@@ -50,6 +50,7 @@ A big shoutout to the community and my respect to all of you. 🙌
 📫 Want to collaborate? Reach me at: [contacto@netmiko.io](mailto:contacto@netmiko.io)  
 🌐 Check out my website: [www.netmiko.io](https://www.netmiko.io)
 
-![Contador de visitas](https://img.shields.io/badge/dynamic/json?color=success&label=Visitas&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FNetmikoIO%2FNetmikoIO&style=flat-square)
+![Visitas](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitas&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FNetmikoIO%2FNetmikoIO%2Fvisitas&style=flat-square)
+
 
 
