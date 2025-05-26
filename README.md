@@ -26,9 +26,7 @@
 - **Arduino IDE**
 - **JetBrains tools**
 
-<picture>
-  <img src="images/html.png" alt="Logo HTML" width="250" />
-</picture>
+
 <picture>
   <img src="https://github.com/NetmikoIO/NetmikoIO/blob/main/images/python.png" alt="Logo Python" width="100" />
 </picture>
