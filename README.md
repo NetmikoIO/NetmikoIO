@@ -42,6 +42,9 @@
 <a href="https://www.credly.com/badges/6fcb686e-3bcb-4c73-ae41-483acab22191/public_url" target="_blank">
     <img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Mi insignia en Credly" width="150px">
 </a>
+<a href="https://www.credly.com/badges/14b37246-03e7-416f-912f-5f5c7f52bf2b/public_url" target="_blank">
+    <img src="https://images.credly.com/images/1ff40d8e-5ab9-4cb4-aea5-72947dc9d43c/image.png" alt="Mi insignia en Credly" width="150px">
+</a>
 
 
 The truth is, I'm a bit of a disaster 😅, but if anyone wants to lend a hand, we can create amazing things together!  
