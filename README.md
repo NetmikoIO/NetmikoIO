@@ -48,6 +48,9 @@
   <img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="Mi insignia en Credly" width="150px" height="150px">
 </a>
 
+<a href="https://www.credly.com/badges/1198a393-60c7-4fd5-b791-edd71df37828/public_url" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
+  <img src="https://images.credly.com/size/680x680/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" alt="Mi insignia en Credly" width="150px" height="150px">
+</a>
 
 
 
