@@ -37,18 +37,38 @@
   
 ## Certifications and Achievements
 
-<a href="https://www.credly.com/badges/6fcb686e-3bcb-4c73-ae41-483acab22191/public_url" target="_blank">
-    <img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Mi insignia en Credly" width="150px">
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/6fcb686e-3bcb-4c73-ae41-483acab22191/public_url" target="_blank">
+        <img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="IT Essentials" width="150px">
+      </a>
+      <div><strong>IT Essentials</strong></div>
+    </td>
+    <td width="10"></td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/14b37246-03e7-416f-912f-5f5c7f52bf2b/public_url" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA 1: Introduction to Networks" width="150px" height="150px">
+      </a>
+      <div><strong>CCNA 1: Introduction to Networks</strong></div>
+    </td>
+    <td width="10"></td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/1198a393-60c7-4fd5-b791-edd71df37828/public_url" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" alt="Network Technician Career Path" width="150px" height="150px">
+      </a>
+      <div><strong>Network Technician Career Path</strong></div>
+    </td>
+  </tr>
+</table>
 
 
-<a href="https://www.credly.com/badges/14b37246-03e7-416f-912f-5f5c7f52bf2b/public_url" target="_blank" rel="noopener noreferrer">
-  <img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="Mi insignia en Credly" width="150px" height="150px">
-</a>
 
-<a href="https://www.credly.com/badges/1198a393-60c7-4fd5-b791-edd71df37828/public_url" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
-  <img src="https://images.credly.com/size/680x680/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" alt="Mi insignia en Credly" width="150px" height="150px">
-</a>
+
+
+
+
+
 
 
 
