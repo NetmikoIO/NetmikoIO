@@ -43,7 +43,7 @@
       <a href="https://www.credly.com/badges/6fcb686e-3bcb-4c73-ae41-483acab22191/public_url" target="_blank">
         <img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="IT Essentials" width="150px">
       </a>
-      <div><strong>IT Essentials</strong></div>
+      <div><strong>Networking Basics</strong></div>
     </td>
     <td width="10"></td>
     <td align="center">
