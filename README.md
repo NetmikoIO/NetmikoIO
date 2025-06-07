@@ -1,8 +1,9 @@
 <div align="center">
 
 <picture>
-  <img src="images/ciber01840px.jpg" alt="Imagen Ciber" style="width: 100%;">
+  <img src="images/logo.png" alt="Logo" style="width: 100%;">
 </picture>
+
 
 </div>
 
