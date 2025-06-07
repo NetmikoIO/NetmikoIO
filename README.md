@@ -1,8 +1,9 @@
 <div align="center">
 
 <picture>
-  <img src="images/LOGO.png" alt="Logo" style="width: 100%;">
+  <img src="images/bannerlin.png" alt="Banner" style="width: 100%;">
 </picture>
+
 
 
 </div>
