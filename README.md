@@ -18,12 +18,12 @@
 
 ***
 
-🔌 I love creating projects with **Arduino**, **ESP32**, and **M5Stack**, combining IoT and practical solutions.  
+🔌 I love creating projects with **Arduino**, **ESP32**, and **M5Stack**, combining IoT and practical solutions. Raspberry Pi (update)  
 🌐 Currently learning **Cisco networks**, **artificial intelligence**, and **Robotics**.  
 </div>
 
 💻 My favorite tools include:
-- **Python,Jupiter Notebook, PyCharm, Anaconda, Git + Git Hub , VsCode, Docker**
+- **Python, Jupiter Notebook, PyCharm, Anaconda, Git + Git Hub , VsCode, Docker**
 - **Coffee ☕ (it's technically hardware, but essential for coding).**  
 - **Arduino IDE**
 
