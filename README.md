@@ -27,7 +27,7 @@
 - **Coffee ☕ (it's technically hardware, but essential for coding).**  
 - **Arduino IDE**
 
-
+🎯 My goal is to merge technology and creativity to develop innovative projects. 
 
 <div align="center">
   <picture>
@@ -35,9 +35,6 @@
   </picture>
 </div>
 
-
-
-🎯 My goal is to merge technology and creativity to develop innovative projects.  
 
 <div align="center">  
   
