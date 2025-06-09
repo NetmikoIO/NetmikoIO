@@ -23,10 +23,10 @@
 </div>
 
 💻 My favorite tools include:
-- **Python,HTML,CSS,JS** 
+- **Python,Jupiter Notebook, PyCharm, Anaconda, Git + Git Hub , VsCode, Docker 
 - **Coffee ☕ (it's technically hardware, but essential for coding).**  
 - **Arduino IDE**
-- **JetBrains tools**
+
 
 
 <div align="center">
