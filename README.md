@@ -29,9 +29,13 @@
 - **JetBrains tools**
 
 
-<picture>
-  <img src="https://github.com/NetmikoIO/NetmikoIO/blob/main/images/python.png" alt="Logo Python" width="100" />
-</picture>
+<div align="center">
+  <picture>
+    <img src="https://github.com/NetmikoIO/NetmikoIO/blob/main/images/Netmiko.gif?raw=true" alt="Netmiko GIF" />
+  </picture>
+</div>
+
+
 
 🎯 My goal is to merge technology and creativity to develop innovative projects.  
 
