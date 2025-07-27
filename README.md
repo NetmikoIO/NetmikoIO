@@ -43,28 +43,28 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://www.credly.com/badges/6fcb686e-3bcb-4c73-ae41-483acab22191/public_url" target="_blank">
-        <img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="100px" alt="Networking Basics">
-        <br><sub><b>Networking Basics</b></sub>
-      </a>
+      <img src="images/Networkbasic.png" width="100px" alt="Networking Basics">
+      <br><sub><b>Networking Basics</b></sub>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/badges/1198a393-60c7-4fd5-b791-edd71df37828/public_url" target="_blank">
-        <img src="https://images.credly.com/size/680x680/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" width="100px" alt="Network Technician">
-        <br><sub><b>Network Technician</b></sub>
-      </a>
+      <img src="images/Networkpath.png" width="100px" alt="Network Technician">
+      <br><sub><b>Network Technician</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/CCNA1.png" width="100px" alt="CCNA 1">
+      <br><sub><b>CCNA 1</b></sub>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/badges/14b37246-03e7-416f-912f-5f5c7f52bf2b/public_url" target="_blank">
-        <img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="100px" alt="CCNA 1">
-        <br><sub><b>CCNA 1</b></sub>
-      </a>
+      <img src="images/CCNA2.png" width="100px" alt="CCNA 2">
+      <br><sub><b>CCNA 2</b></sub>
     </td>
-    <td align="center">
-      <a href="https://www.credly.com/badges/4ec1c7e6-e983-4cdf-aba6-a605b073d301/public_url" target="_blank">
-        <img src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" width="100px" alt="CCNA 2">
-        <br><sub><b>CCNA 2</b></sub>
-      </a>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="images/GoogleCY.png" width="100px" alt="Cybersecurity Essentials">
+      <br><sub><b>Cybersecurity Essentials</b></sub>
     </td>
   </tr>
 </table>
