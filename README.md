@@ -77,6 +77,14 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://www.credly.com/badges/b107d0a8-c264-4280-8e3e-b22170cf1d4c/public_url" target="_blank">
+        <img src="images/JuniorCy.png" width="150px" alt="Junior Cybersecurity">
+        <br><sub><b>Junior Cybersecurity</b></sub>
+      </a>
+    </td>
+  </tr>
 </table>
 
 
