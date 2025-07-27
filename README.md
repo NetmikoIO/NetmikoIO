@@ -43,31 +43,42 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="images/Networkbasic.png" width="100px" alt="Networking Basics">
-      <br><sub><b>Networking Basics</b></sub>
+      <a href="https://www.credly.com/badges/6fcb686e-3bcb-4c73-ae41-483acab22191/public_url" target="_blank">
+        <img src="images/Networkbasic.png" width="100px" alt="Networking Basics">
+        <br><sub><b>Networking Basics</b></sub>
+      </a>
     </td>
     <td align="center">
-      <img src="images/Networkpath.png" width="100px" alt="Network Technician">
-      <br><sub><b>Network Technician</b></sub>
+      <a href="https://www.credly.com/badges/1198a393-60c7-4fd5-b791-edd71df37828/public_url" target="_blank">
+        <img src="images/Networkpath.png" width="100px" alt="Network Technician">
+        <br><sub><b>Network Technician</b></sub>
+      </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="images/CCNA1.png" width="100px" alt="CCNA 1">
-      <br><sub><b>CCNA 1</b></sub>
+      <a href="https://www.credly.com/badges/14b37246-03e7-416f-912f-5f5c7f52bf2b/public_url" target="_blank">
+        <img src="images/CCNA1.png" width="100px" alt="CCNA 1">
+        <br><sub><b>CCNA 1</b></sub>
+      </a>
     </td>
     <td align="center">
-      <img src="images/CCNA2.png" width="100px" alt="CCNA 2">
-      <br><sub><b>CCNA 2</b></sub>
+      <a href="https://www.credly.com/badges/4ec1c7e6-e983-4cdf-aba6-a605b073d301/public_url" target="_blank">
+        <img src="images/CCNA2.png" width="100px" alt="CCNA 2">
+        <br><sub><b>CCNA 2</b></sub>
+      </a>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="images/GoogleCY.png" width="100px" alt="Cybersecurity Essentials">
-      <br><sub><b>Cybersecurity Essentials</b></sub>
+      <a href="https://www.credly.com/badges/2c7f91bf-d841-4cfb-af67-e0ef3cd90039/public_url" target="_blank">
+        <img src="images/GoogleCY.png" width="150px" alt="Cybersecurity Essentials">
+        <br><sub><b>Cybersecurity Essentials</b></sub>
+      </a>
     </td>
   </tr>
 </table>
+
 
 
 
