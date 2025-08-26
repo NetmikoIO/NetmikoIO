@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <img src="images/bannerlin.png" alt="Banner" style="width: 100%;">
+  <img src="images/Helvetica World.png" alt="Banner" style="width: 100%;">
 </picture>
 
 
