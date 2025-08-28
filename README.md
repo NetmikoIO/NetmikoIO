@@ -42,50 +42,49 @@
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center" width="250">
       <a href="https://www.credly.com/badges/6fcb686e-3bcb-4c73-ae41-483acab22191/public_url" target="_blank">
-        <img src="images/Networkbasic.png" width="100px" alt="Networking Basics">
-        <br><sub><b>Networking Basics</b></sub>
+        <img src="images/Networkbasic.png" width="200px" alt="Networking Basics">
+        <br><small><b>Networking Basics</b></small>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="250">
       <a href="https://www.credly.com/badges/1198a393-60c7-4fd5-b791-edd71df37828/public_url" target="_blank">
-        <img src="images/Networkpath.png" width="100px" alt="Network Technician">
-        <br><sub><b>Network Technician</b></sub>
+        <img src="images/Networkpath.png" width="200px" alt="Network Technician">
+        <br><small><b>Network Technician</b></small>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td align="center" width="250">
       <a href="https://www.credly.com/badges/14b37246-03e7-416f-912f-5f5c7f52bf2b/public_url" target="_blank">
-        <img src="images/CCNA1.png" width="100px" alt="CCNA 1">
-        <br><sub><b>CCNA 1</b></sub>
+        <img src="images/CCNA1.png" width="200px" alt="CCNA 1">
+        <br><small><b>CCNA 1</b></small>
       </a>
     </td>
-    <td align="center">
+  </tr>
+  <tr>
+    <td align="center" width="250">
       <a href="https://www.credly.com/badges/4ec1c7e6-e983-4cdf-aba6-a605b073d301/public_url" target="_blank">
-        <img src="images/CCNA2.png" width="100px" alt="CCNA 2">
-        <br><sub><b>CCNA 2</b></sub>
+        <img src="images/CCNA2.png" width="200px" alt="CCNA 2">
+        <br><small><b>CCNA 2</b></small>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
+    <td align="center" width="250">
       <a href="https://www.credly.com/badges/2c7f91bf-d841-4cfb-af67-e0ef3cd90039/public_url" target="_blank">
-        <img src="images/GoogleCY.png" width="150px" alt="Cybersecurity Essentials">
-        <br><sub><b>Cybersecurity Essentials</b></sub>
+        <img src="images/GoogleCY.png" width="200px" alt="Cybersecurity Essentials">
+        <br><small><b>Cybersecurity Essentials</b></small>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
+    <td align="center" width="250">
       <a href="https://www.credly.com/badges/b107d0a8-c264-4280-8e3e-b22170cf1d4c/public_url" target="_blank">
-        <img src="images/JuniorCy.png" width="150px" alt="Junior Cybersecurity">
-        <br><sub><b>Junior Cybersecurity</b></sub>
+        <img src="images/JuniorCy.png" width="200px" alt="Junior Cybersecurity">
+        <br><small><b>Junior Cybersecurity</b></small>
       </a>
     </td>
   </tr>
 </table>
+
+
+
 
 
 
