@@ -84,21 +84,13 @@
 </table>
 
 
-
-
-
-
-
-
-
-
-
-
-The truth is, I'm a bit of a disaster 😅, but if anyone wants to lend a hand, we can create amazing things together!  
-A big shoutout to the community and my respect to all of you. 🙌 
+“I’m passionate about learning and building projects, even if I stumble sometimes 😅. Collaboration is always welcome – let’s create something amazing together!
+Respect to this incredible community. 🙌”
 
 📫 Want to collaborate? Reach me at: [contacto@netmiko.io](mailto:contacto@netmiko.io)  
 🌐 Check out my website: [www.netmiko.io](https://www.netmiko.io)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JaDomin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadomin/)
 
 [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NetmikoIO.README.md)](https://github.com/NetmikoIO/NetmikoIO)
 
