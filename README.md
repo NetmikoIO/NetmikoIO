@@ -96,10 +96,9 @@ Respect to this incredible community. 🙌”
 [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NetmikoIO.README.md)](https://github.com/NetmikoIO/NetmikoIO)
 
 <div align="center">
-  <a href="https://www.codedex.io/n3tmiko">
+  <a href="https://www.codedex.io/@n3tmiko">
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXh6eW9jbjlteHMwenI4ZW5ieHB5ZmlzYndkbjU3aWg3NDU0czJobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t6Kf2qs5fgWiAlOig5/giphy.gif" alt="¡Haz clic para visitar Codedex!" width="200">
   </a>
 </div>
-
 
 
