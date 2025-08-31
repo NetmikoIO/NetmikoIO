@@ -5,7 +5,6 @@
 </picture>
 
 
-
 </div>
 
 <h1 align="center">Hi 👋, I'm Miko! </h1>
@@ -15,6 +14,7 @@
 <div align="center">
   👋 Hi! I'm <b>Miko</b>, a <i>developer in progress</i> passionate about programming, networks, and microcomputing.
 
+![Código animado](images/code.gif)
 
 ***
 
@@ -90,6 +90,8 @@ Respect to this incredible community. 🙌”
 
 📫 Want to collaborate? Reach me at: [contacto@netmiko.io](mailto:contacto@netmiko.io)  
 🌐 Check out my website: [www.netmiko.io](https://www.netmiko.io)
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JaDomin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadomin/)
 
