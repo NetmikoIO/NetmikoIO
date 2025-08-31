@@ -14,7 +14,9 @@
 <div align="center">
   👋 Hi! I'm <b>Miko</b>, a <i>developer in progress</i> passionate about programming, networks, and microcomputing.
 
-![Código animado](images/code.gif)
+<img src="images/code.gif" alt="Código animado" width="300">
+
+
 
 ***
 
