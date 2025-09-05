@@ -31,15 +31,7 @@
 
 🎯 My goal is to merge technology and creativity to develop innovative projects. 
 
-<div align="center">
 
-  <!-- GIF clicable -->
-  <a href="https://github.com/NetmikoIO/portfolio/readme.md" target="_blank">
-    <img src="https://github.com/NetmikoIO/NetmikoIO/blob/main/images/Netmiko.gif?raw=true" 
-         alt="Netmiko GIF" 
-         width="200"/>
-  </a>
-</div>
 
 <div align="center">  
 
@@ -91,7 +83,16 @@
 ## Portfolio
 
 Check out my projects in **Python, Networking, IoT, AI/ML, and Cloud**:  
-[Go to Portfolio Repository](https://github.com/NetmikoIO/portfolio/readme.md)
+[Go to Portfolio Repository](https://github.com/NetmikoIO/portfolio/README.md)
+<div align="center">
+
+  <!-- GIF clicable -->
+  <a href="https://github.com/NetmikoIO/portfolio/README.md" target="_blank">
+    <img src="https://github.com/NetmikoIO/NetmikoIO/blob/main/images/Netmiko.gif?raw=true" 
+         alt="Netmiko GIF" 
+         width="200"/>
+  </a>
+</div>
 
 ## Contact Me
 
