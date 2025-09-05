@@ -34,7 +34,7 @@
 <div align="center">
 
   <!-- GIF clicable -->
-  <a href="https://github.com/NetmikoIO/portfolio" target="_blank">
+  <a href="https://github.com/NetmikoIO/portfolio/readme.md" target="_blank">
     <img src="https://github.com/NetmikoIO/NetmikoIO/blob/main/images/Netmiko.gif?raw=true" 
          alt="Netmiko GIF" 
          width="200"/>
@@ -91,7 +91,7 @@
 ## Portfolio
 
 Check out my projects in **Python, Networking, IoT, AI/ML, and Cloud**:  
-[Go to Portfolio Repository](https://github.com/NetmikoIO/portfolio)
+[Go to Portfolio Repository](https://github.com/NetmikoIO/portfolio/readme.md)
 
 ## Contact Me
 
