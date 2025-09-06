@@ -1,11 +1,7 @@
-<div align="center">
 
 <picture>
-  <img src="images/Helvetica World.png" alt="Banner" style="width: 100%;">
+  <img src="https://github.com/NetmikoIO/portfolio/blob/main/assets/images/banner_port.png" alt="Banner" style="width: 100%;">
 </picture>
-
-
-</div>
 
 <h1 align="center">Hi 👋, I'm Miko! </h1>
 <h3 align="center">私の世界へようこそ、ここではコードがうまく動くように頑張っています... そして、時々成功します！ </h3>
@@ -14,9 +10,24 @@
 <div align="center">
   👋 Hi! I'm <b>Miko</b>, a <i>developer in progress</i> passionate about programming, networks, and microcomputing.
 
-<img src="images/code.gif" alt="Código animado" width="300">
+## Portfolio
+
+Check out my projects in **Python, Networking, IoT, AI/ML, and Cloud**:  
+[Go to Portfolio Repository](https://github.com/NetmikoIO/portfolio
+)
 
 
+<div align="center">
+
+  <!-- GIF clicable -->
+  <a href="https://github.com/NetmikoIO/portfolio
+" target="_blank">
+    <img src="https://github.com/NetmikoIO/NetmikoIO/blob/main/images/Netmiko.gif?raw=true" 
+         alt="Netmiko GIF" 
+         width="100"/>
+  </a>
+
+</div>
 
 ***
 
@@ -33,15 +44,7 @@
 
 <div align="center">  
 
-## Portfolio
 
-<picture>
-  <img src="https://github.com/NetmikoIO/portfolio/blob/main/assets/images/banner_port.png" alt="Banner" style="width: 100%;">
-</picture>
-
-Check out my projects in **Python, Networking, IoT, AI/ML, and Cloud**:  
-[Go to Portfolio Repository](https://github.com/NetmikoIO/portfolio
-)
 
 ## Certifications and Achievements
 
@@ -89,16 +92,15 @@ Check out my projects in **Python, Networking, IoT, AI/ML, and Cloud**:
 </table>
 
 
+
 <div align="center">
 
-  <!-- GIF clicable -->
-  <a href="https://github.com/NetmikoIO/portfolio
-" target="_blank">
-    <img src="https://github.com/NetmikoIO/NetmikoIO/blob/main/images/Netmiko.gif?raw=true" 
-         alt="Netmiko GIF" 
-         width="200"/>
-  </a>
-</div>
+<picture>
+  <img src="images/Helvetica World.png" alt="Banner" style="width: 100%;">
+</picture>
+
+
+</div> 
 
 ## Contact Me
 
@@ -108,15 +110,17 @@ Respect to this incredible community. 🙌”
 📫 Want to collaborate? Reach me at: [contacto@netmiko.io](mailto:contacto@netmiko.io)  
 🌐 Check out my website: [www.netmiko.io](https://www.netmiko.io)
 
-
+<img src="images/code.gif" alt="Código animado" width="100">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JaDomin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadomin/)
 
 [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NetmikoIO.README.md)](https://github.com/NetmikoIO/NetmikoIO)
 
-<div align="center">
+
+
+<div align="left">
   <a href="https://www.codedex.io/@n3tmiko">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXh6eW9jbjlteHMwenI4ZW5ieHB5ZmlzYndkbjU3aWg3NDU0czJobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t6Kf2qs5fgWiAlOig5/giphy.gif" alt="¡Haz clic para visitar Codedex!" width="200">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXh6eW9jbjlteHMwenI4ZW5ieHB5ZmlzYndkbjU3aWg3NDU0czJobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t6Kf2qs5fgWiAlOig5/giphy.gif" alt="¡Haz clic para visitar Codedex!" width="100">
   </a>
 </div>
 
