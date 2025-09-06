@@ -24,7 +24,7 @@ Check out my projects in **Python, Networking, IoT, AI/ML, and Cloud**:
 " target="_blank">
     <img src="https://github.com/NetmikoIO/NetmikoIO/blob/main/images/Netmiko.gif?raw=true" 
          alt="Netmiko GIF" 
-         width="100"/>
+         width="200"/>
   </a>
 
 </div>
@@ -95,9 +95,6 @@ Check out my projects in **Python, Networking, IoT, AI/ML, and Cloud**:
 
 <div align="center">
 
-<picture>
-  <img src="images/Helvetica World.png" alt="Banner" style="width: 100%;">
-</picture>
 
 
 </div> 
@@ -116,12 +113,5 @@ Respect to this incredible community. 🙌”
 
 [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NetmikoIO.README.md)](https://github.com/NetmikoIO/NetmikoIO)
 
-
-
-<div align="left">
-  <a href="https://www.codedex.io/@n3tmiko">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXh6eW9jbjlteHMwenI4ZW5ieHB5ZmlzYndkbjU3aWg3NDU0czJobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t6Kf2qs5fgWiAlOig5/giphy.gif" alt="¡Haz clic para visitar Codedex!" width="100">
-  </a>
-</div>
 
 
