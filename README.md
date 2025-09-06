@@ -36,7 +36,7 @@
 ## Portfolio
 
 <picture>
-  <img src="https://github.com/NetmikoIO/portfolio/blob/main/assets/images/banner_port.png" alt="Banner" style="width: 70%;">
+  <img src="https://github.com/NetmikoIO/portfolio/blob/main/assets/images/banner_port.png" alt="Banner" style="width: 100%;">
 </picture>
 
 Check out my projects in **Python, Networking, IoT, AI/ML, and Cloud**:  
