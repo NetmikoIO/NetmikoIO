@@ -27,13 +27,21 @@
 💻 My favorite tools include:
 - **Python, Jupiter Notebook, PyCharm, Anaconda, Git + Git Hub , VsCode, Docker**
 - **Coffee ☕ (it's technically hardware, but essential for coding).**  
-- **Arduino IDE**
+- **Arduino IDE**, **Bash**, **Terminal**, **Wireshark**, **Cisco Packet Tracer**, **Nmap**, **TcpDUMP**, **Suricata**
 
 🎯 My goal is to merge technology and creativity to develop innovative projects. 
 
-
-
 <div align="center">  
+
+## Portfolio
+
+<picture>
+  <img src="https://github.com/NetmikoIO/portfolio/blob/main/assets/images/banner_port.png" alt="Banner" style="width: 100%;">
+</picture>
+
+Check out my projects in **Python, Networking, IoT, AI/ML, and Cloud**:  
+[Go to Portfolio Repository](https://github.com/NetmikoIO/portfolio
+)
 
 ## Certifications and Achievements
 
@@ -80,11 +88,7 @@
   </tr>
 </table>
 
-## Portfolio
 
-Check out my projects in **Python, Networking, IoT, AI/ML, and Cloud**:  
-[Go to Portfolio Repository](https://github.com/NetmikoIO/portfolio
-)
 <div align="center">
 
   <!-- GIF clicable -->
