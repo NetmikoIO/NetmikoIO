@@ -89,7 +89,18 @@ Check out my projects in **Python, Networking, IoT, AI/ML, and Cloud**:
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/b92a8db2-d296-4634-9416-7d4ba3aaebd5" target="_blank">
+        <img src="images/essential.png" width="170px" alt="Linux Essentials">
+        <br><small><b>Linux Essentials</b></small>
+      </a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
+
 
 
 
